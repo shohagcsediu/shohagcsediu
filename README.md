@@ -6,10 +6,11 @@
 - 🤔 I’m looking for help with job
 - 💬 Ask me about anything
 - ⚡ Technology Addicted
-- ✨ 
+- ✨ Focused on learning
 - 📫 Reach me: shohagcsediu@gmail.com | +8801927095885
 
 ### Connect with me:
+[<img align="left" alt="Whatsapp" width="26px" src="https://i.imgur.com/5RcuQSo.png" />][whatsapp]
 [<img align="left" alt="Medium" width="26px" src="https://i.imgur.com/2Vx1jdP.png" />][medium]
 [<img align="left" alt="Linkedin" width="26px" src="https://i.imgur.com/mMnHKRL.png" />][linkedin]
 [<img align="left" alt="Twitter" width="26px" src="https://i.imgur.com/nl03kI0.png" />][twitter]
@@ -20,10 +21,11 @@
 [<img align="left" alt="Instagram" width="26px" src="https://i.imgur.com/zmJcCYa.jpg" />][instagram]
 
 
+
 ### Languages and Tools:
+Flutter and Dart, React.js, Node.js
 
-
-
+[whatsapp]: https://wa.me/8801927095885
 [medium]: https://shohagcsediu.medium.com/
 [linkedin]: https://www.linkedin.com/in/shohagcsediu
 [twitter]: https://twitter.com/shohagcsediu
