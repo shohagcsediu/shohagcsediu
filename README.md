@@ -20,7 +20,7 @@
 [<img align="left" alt="Facebook" width="26px" src="https://i.imgur.com/gy6BxWD.png" />][facebook]
 [<img align="left" alt="Instagram" width="26px" src="https://i.imgur.com/zmJcCYa.jpg" />][instagram]
 
-
+<br />
 
 ### Languages and Tools:
 Flutter and Dart, React.js, Node.js
