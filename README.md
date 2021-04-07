@@ -25,6 +25,15 @@
 ### Languages and Tools:
 Flutter and Dart, React.js, Node.js
 
+<br />
+
+### Analytics
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shohagcsediu)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=shohagcsediu&show_icons=true&count_private=true)  
+
+![Profile views](https://gpvc.arturio.dev/shohagcsediu)
+
 [whatsapp]: https://wa.me/8801927095885
 [medium]: https://shohagcsediu.medium.com/
 [linkedin]: https://www.linkedin.com/in/shohagcsediu
