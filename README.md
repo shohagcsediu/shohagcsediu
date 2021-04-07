@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on any interesting project
 - 🤔 I’m looking for help with job
 - 💬 Ask me about anything
-- 📫 Reach me: shohagcsediu@gmail.com | +8801927095885
+- 📫 Reach me: shohagcsediu@gmail.com
 
 ### Connect with me ⚡
 [<img align="left" alt="Whatsapp" width="26px" src="https://i.imgur.com/5RcuQSo.png" />][whatsapp]
