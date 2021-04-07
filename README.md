@@ -5,11 +5,9 @@
 - 👯 I’m looking to collaborate on any interesting project
 - 🤔 I’m looking for help with job
 - 💬 Ask me about anything
-- ⚡ Technology Addicted
-- ✨ Focused on learning
 - 📫 Reach me: shohagcsediu@gmail.com | +8801927095885
 
-### Connect with me:
+### Connect with me ⚡
 [<img align="left" alt="Whatsapp" width="26px" src="https://i.imgur.com/5RcuQSo.png" />][whatsapp]
 [<img align="left" alt="Medium" width="26px" src="https://i.imgur.com/2Vx1jdP.png" />][medium]
 [<img align="left" alt="Linkedin" width="26px" src="https://i.imgur.com/mMnHKRL.png" />][linkedin]
@@ -20,9 +18,9 @@
 [<img align="left" alt="Facebook" width="26px" src="https://i.imgur.com/gy6BxWD.png" />][facebook]
 [<img align="left" alt="Instagram" width="26px" src="https://i.imgur.com/zmJcCYa.jpg" />][instagram]
 <br />
-### Languages and Tools:
-Flutter and Dart, React.js, Node.js<br />
-### Analytics
+### Languages and Tools 🛠
+Flutter and Dart, MERN Stack (MongoDB, Express.js, React.js, Node.js)<br />
+### Analytics ✨
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shohagcsediu)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shohagcsediu&show_icons=true&count_private=true)  
