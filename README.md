@@ -19,14 +19,9 @@
 [<img align="left" alt="Tumblr" width="26px" src="https://i.imgur.com/3AwqP6x.png" />][tumblr]
 [<img align="left" alt="Facebook" width="26px" src="https://i.imgur.com/gy6BxWD.png" />][facebook]
 [<img align="left" alt="Instagram" width="26px" src="https://i.imgur.com/zmJcCYa.jpg" />][instagram]
-
 <br />
-
 ### Languages and Tools:
-Flutter and Dart, React.js, Node.js
-
-<br />
-
+Flutter and Dart, React.js, Node.js<br />
 ### Analytics
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shohagcsediu)](https://github.com/anuraghazra/github-readme-stats)
 
