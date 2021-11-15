@@ -20,20 +20,19 @@
 
 ### Technology 🛠
 Technology: JavaScript, React JS, Flask Rest API, Node JS, Express JS, WordPress, Flutter
-<br />
+<br /><br />
 For Design: HTML, CSS, Bootstrap, Material UI, Tailwind CSS
-<br />
+<br /><br />
 Database: PostgreSQL, MySQL, MongoDB, SQLite, Firebase
-<br />
+<br /><br />
 Tools: Git, Github, Slack, Azure, Heroku, Netlify
-<br />
+<br /><br />
 IDE: Vs Code, Android Studio
-<br />
-
+<br /><br />
 ### Analytics ✨
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shohagcsediu)]
-
 ![Shohag's github stats](https://github-readme-stats.vercel.app/api?username=shohagcsediu&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shohagcsediu)
 
 ![Profile views](https://gpvc.arturio.dev/shohagcsediu)
 
