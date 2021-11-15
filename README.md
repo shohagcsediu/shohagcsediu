@@ -1,9 +1,8 @@
-### Hi there I am Mohammad Shohag 👋
+### I am Mohammad Shohag
 
-- 🔭 I’m currently working on skill development
-- 🌱 I’m currently learning MERN Stack
+- 🔭 I’m currently working as a Software Engineer
 - 👯 I’m looking to collaborate on any interesting project
-- 🤔 I’m looking for help with job
+- 🤔 I’m looking for remote job
 - 💬 Ask me about anything
 - 📫 Reach me: shohagcsediu@gmail.com
 
@@ -18,12 +17,23 @@
 [<img align="left" alt="Facebook" width="26px" src="https://i.imgur.com/gy6BxWD.png" />][facebook]
 [<img align="left" alt="Instagram" width="26px" src="https://i.imgur.com/zmJcCYa.jpg" />][instagram]
 <br />
-### Languages and Tools 🛠
-Flutter and Dart, MERN Stack (MongoDB, Express.js, React.js, Node.js)<br />
-### Analytics ✨
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shohagcsediu)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=shohagcsediu&show_icons=true&count_private=true)  
+### Technology 🛠
+Technology: JavaScript, React JS, Flask Rest API, Node JS, Express JS, WordPress, Flutter
+<br />
+For Design: HTML, CSS, Bootstrap, Material UI, Tailwind CSS
+<br />
+Database: PostgreSQL, MySQL, MongoDB, SQLite, Firebase
+<br />
+Tools: Git, Github, Slack, Azure, Heroku, Netlify
+<br />
+IDE: Vs Code, Android Studio
+<br />
+
+### Analytics ✨
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shohagcsediu)]
+
+![Shohag's github stats](https://github-readme-stats.vercel.app/api?username=shohagcsediu&count_private=true)
 
 ![Profile views](https://gpvc.arturio.dev/shohagcsediu)
 
