@@ -19,13 +19,15 @@
 <br />
 
 ### Technology 🛠
-Technology: JavaScript, React JS, Flask Rest API, Node JS, Express JS, WordPress, Flutter
+Frontend: React.js, Next.js, Bootstrap, Material UI
 <br /><br />
-For Design: HTML, CSS, Bootstrap, Material UI, Tailwind CSS
+Backend: Flask Rest API, Express js, WordPress
+<br /><br />
+Mobile App: Flutter and Dart
 <br /><br />
 Database: PostgreSQL, MySQL, MongoDB, SQLite, Firebase
 <br /><br />
-Tools: Git, Github, Slack, Azure, Heroku, Netlify
+Tools: Azure, Slack, Git, Heroku, Netlify
 <br /><br />
 IDE: Vs Code, Android Studio
 <br /><br />
