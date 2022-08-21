@@ -32,9 +32,16 @@ Tools: Azure, Slack, Git, Heroku, Netlify
 IDE: Vs Code, Android Studio
 <br /><br />
 ### Analytics ✨
-![Shohag's github stats](https://github-readme-stats.vercel.app/api?username=shohagcsediu&count_private=true)
+<p float="left">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shohagcsediu&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shohagcsediu&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shohagcsediu)
+<b>&#128200; Competitive Programming</b>
+<p float="left">
+<img height="273em" src="https://leetcard.jacoblin.cool/shohagcsediu?theme=light&font=Karma&ext=contest" />
+<img height="280em" src="https://raw.githubusercontent.com/shohagcsediu/cf-stats/main/output/light_card.svg" />
+</p>
 
 ![Profile views](https://gpvc.arturio.dev/shohagcsediu)
 
