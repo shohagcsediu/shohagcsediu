@@ -43,7 +43,14 @@ IDE: Vs Code, Android Studio
 <img height="280em" src="https://raw.githubusercontent.com/shohagcsediu/cf-stats/main/output/light_card.svg" />
 </p>
 
-![Profile views](https://gpvc.arturio.dev/shohagcsediu)
+## &#x1f4c8; GitHub Stats
+
+[![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shohagcsediu&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+  
+[![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shohagcsediu&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shohagcsediu&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+![](https://komarev.com/ghpvc/?username=shohagcsediu&color=brightgreen&style=flat)
 
 [whatsapp]: https://wa.me/8801927095885
 [medium]: https://shohagcsediu.medium.com/
