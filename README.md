@@ -1,63 +1,66 @@
-### I am Mohammad Shohag
+# 👋 Hi, I’m Mohammad Shohag
 
-- 🔭 I’m currently working as a Software Engineer
-- 👯 I’m looking to collaborate on any interesting project
-- 🤔 I’m looking for remote job
-- 💬 Ask me about anything
-- 📫 Reach me: shohagcsediu@gmail.com
+Software Engineer & Team Leader with 5+ years of experience managing engineering teams and delivering scalable software solutions. I specialize in overseeing end-to-end project lifecycles — from architecture design to deployment — ensuring projects are delivered on time, within scope, and aligned with business goals. Skilled at leading remote teams, mentoring developers, and collaborating with clients to transform ideas into reliable, high-impact digital products.
 
-### Connect with me ⚡
-[<img align="left" alt="Whatsapp" width="26px" src="https://i.imgur.com/5RcuQSo.png" />][whatsapp]
-[<img align="left" alt="Medium" width="26px" src="https://i.imgur.com/2Vx1jdP.png" />][medium]
-[<img align="left" alt="Linkedin" width="26px" src="https://i.imgur.com/mMnHKRL.png" />][linkedin]
-[<img align="left" alt="Twitter" width="26px" src="https://i.imgur.com/nl03kI0.png" />][twitter]
-[<img align="left" alt="Stackoverflow" width="26px" src="https://i.imgur.com/14wFxRw.png" />][stackoverflow]
-[<img align="left" alt="Pinterest" width="26px" src="https://i.imgur.com/eL2rw1L.png" />][pinterest]
-[<img align="left" alt="Tumblr" width="26px" src="https://i.imgur.com/3AwqP6x.png" />][tumblr]
-[<img align="left" alt="Facebook" width="26px" src="https://i.imgur.com/gy6BxWD.png" />][facebook]
-[<img align="left" alt="Instagram" width="26px" src="https://i.imgur.com/zmJcCYa.jpg" />][instagram]
-<br />
+- 🔭 Currently working as a **Software Engineer & Team Lead**  
+- 👯 Open to collaboration on **innovative and impact-driven projects**  
+- 🤝 Actively looking for **remote leadership and project management opportunities**  
+- 💬 Ask me about **software architecture, project management, team leadership, and scalable system design**  
+- 📫 Reach me: **shohagcsediu@gmail.com**
 
-### Technology 🛠
-Frontend: React.js, Next.js, Bootstrap, Material UI
-<br /><br />
-Backend: Flask Rest API, Express js, WordPress
-<br /><br />
-Mobile App: Flutter and Dart
-<br /><br />
-Database: PostgreSQL, MySQL, MongoDB, SQLite, Firebase
-<br /><br />
-Tools: Azure, Slack, Git, Heroku, Netlify
-<br /><br />
-IDE: Vs Code, Android Studio
-<br /><br />
-### Analytics ✨
+---
+## 🛠️ Tools Knowledge
+
+⚙️ **Backend Development:**
+Python: (FastAPI, Flask rest api, Django rest api),
+JavaScript: Node.js (Express.js), Nest.js
+
+💻 **Frontend Development:** React.js, Next.js
+
+📱 **Mobile Apps:** Flutter (Dart), Kotlin (Android, Jetpack Compose)
+
+🗄️ **Databases:** PostgreSQL, MySQL, SQLite, MongoDB, Supabase, Firebase
+
+☁️ **Cloud & DevOps:** Microsoft Azure, DigitalOcean, Docker
+
+👨‍💻 **Leadership & Management:**
+Project management (Agile/Scrum)
+Leading remote engineering teams
+Software architecture & system design
+Client communication & delivery management
+
+---
+## 🌐 Connect with me
+
+- [WhatsApp](https://wa.me/8801927095885)  
+- [Medium](https://shohagcsediu.medium.com/)  
+- [LinkedIn](https://www.linkedin.com/in/shohagcsediu)  
+- [Twitter](https://twitter.com/shohagcsediu)  
+- [Stack Overflow](https://stackoverflow.com/users/5145944/mohammad-shohag)  
+- [Pinterest](https://www.pinterest.com/shohagcsediu/)  
+- [Tumblr](https://shohagcsediu.tumblr.com/)  
+- [Facebook](https://www.facebook.com/shohag.py)  
+- [Instagram](https://www.instagram.com/shohagcsediu/)  
+
+---
+## 📊 Analytics & Stats
+
 <p float="left">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shohagcsediu&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shohagcsediu&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
-<b>&#128200; Competitive Programming</b>
+### 🏆 Competitive Programming
 <p float="left">
 <img height="273em" src="https://leetcard.jacoblin.cool/shohagcsediu?theme=light&font=Karma&ext=contest" />
-<img height="280em" src="https://raw.githubusercontent.com/shohagcsediu/cf-stats/main/output/light_card.svg" />
 </p>
 
-## &#x1f4c8; GitHub Stats
+---
+
+## 📈 GitHub Stats
 
 [![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shohagcsediu&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-  
 [![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shohagcsediu&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shohagcsediu&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ![](https://komarev.com/ghpvc/?username=shohagcsediu&color=brightgreen&style=flat)
-
-[whatsapp]: https://wa.me/8801927095885
-[medium]: https://shohagcsediu.medium.com/
-[linkedin]: https://www.linkedin.com/in/shohagcsediu
-[twitter]: https://twitter.com/shohagcsediu
-[stackoverflow]: https://stackoverflow.com/users/5145944/mohammad-shohag
-[pinterest]: https://www.pinterest.com/shohagcsediu/
-[tumblr]: https://shohagcsediu.tumblr.com/
-[facebook]: https://www.facebook.com/shohag.py
-[instagram]: https://www.instagram.com/shohagcsediu/
